@@ -2,10 +2,10 @@ DROP TABLE IF EXISTS students;
 
 # ------------------------------------
 CREATE TABLE students (
-	name VARCHAR(255) NOT NULL,
-	subject VARCHAR(255) NOT NULL,
-	note DECIMAL NOT NULL,
-	coeff INTEGER NOT NULL,
-	noteCoeff DECIMAL NOT NULL
+    name VARCHAR(255) NOT NULL,
+    subject VARCHAR(255) NOT NULL,
+    note DECIMAL NOT NULL,
+    coeff INTEGER NOT NULL,
+    noteCoeff DECIMAL NOT NULL
 );
 # ------------------------------------
