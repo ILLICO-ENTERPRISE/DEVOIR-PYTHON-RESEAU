@@ -1,0 +1,21 @@
+Momo,10.88,4
+Ali,18.57,4
+Marcelle,11.84,4
+Fabienne,9,4
+Moussa,14.44,4
+Sarr Fall,13.5,4
+Mohammed,11.56,4
+Sylla,13.33,4
+Patrick,13.33,4
+Jacob,15.88,4
+Paul,10.5,4
+Kora,14.43,4
+Akinosho,7.33,4
+Jean,5.44,4
+Mamadou,4.06,4
+Pauline,1.75,4
+Fatima,8.88,4
+Laye,10,4
+Lamine,19,4
+Maodo,19.33,4
+Eric,15.88,4
